@@ -1,24 +1,20 @@
-# teapot
+# Kazcom
 
-## Project setup
+## Zainstalowanie zależności oraz uruchomienie aplikacji
 ```
+cd chat_vue
 yarn install
+node server/main.js
 ```
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+### Technologie użyte w projekcie:
+- express.js
+- vue3
+- socket.io
+- axios.js
+- MongoDB
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## Oprogramowanie na którym aplikacja była uruchamiana:
+- Node.js v.18.14.0
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Baza danych jest w katalogu DB/
