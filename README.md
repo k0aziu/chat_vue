@@ -18,3 +18,6 @@ node server/main.js
 - Node.js v.18.14.0
 
 ### Baza danych jest w katalogu DB/
+- powinna się nazywać kazcom i mieć dwie kolekcje:
+- users
+- messages
